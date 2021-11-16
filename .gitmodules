@@ -1,3 +1,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = git@github.com:Tooioo/BackEnd.git
+[submodule "subtest"]
+	path = subtest
+	url = git@github.com:Tooioo/subtest.git
